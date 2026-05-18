@@ -1,2 +1,6 @@
 get user data
 process the data
+
+create an avatar to an user
+\
+feature 1
